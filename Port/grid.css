@@ -1,0 +1,1403 @@
+
+@media screen and (min-width: 479px) {
+    
+
+
+
+    
+header{
+    border: 2px;
+    padding: 10px;
+    display: flex;
+    position: sticky;
+    top: 5px;
+    background-color: white;
+    /* border: 1px solid; */
+
+
+    margin-left: 25%;
+    width: 50%;
+    height: 5vh;
+    
+} main{
+    /* border: 2px solid grey; */
+    padding: 5px;
+    margin-left: 25%;
+    
+    margin-top: 2em;
+    width: 50%;
+    height: 60vh;
+    
+
+}footer{
+    /* border: 2px solid grey; */
+    padding: 10px;
+    margin-top: 20px;
+
+
+    width: 50%;
+    height: 2vh;
+    margin-left: 25%;
+}
+
+
+
+
+
+.h1{
+    font-size: 2em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 50px;
+
+
+} .h2{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 20px;
+
+    margin-left: 70px;
+    margin-top: 15px;
+}.h3{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 0px;
+
+    margin-top: 15px;
+    margin-left: 30px;
+}.h4{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 20px;
+
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+
+.hero{
+    background-image: url(./hero.jpg);
+    color: white;
+
+
+
+
+    font-size: 0.7em;
+    font-family: sans-serif;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 1.5em;
+    width: 50%;
+    height: 37.5vh;
+    margin-left: 25%;
+    background-repeat: no-repeat;
+    background-size: contain;
+} article{
+    /* border: 2px solid grey; */
+
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+
+    margin-top: 5em;
+    margin-left: 1em;
+
+} button{
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(174, 174, 174);
+} button a{
+    color: rgb(0, 0, 0);
+} h1{
+    margin-top: 3em;
+    margin-left: 1em;
+} h2{
+    /* border: 2px solid grey; */
+
+    width: 50%;
+    height: auto;
+    padding: 10px;
+
+    margin-left: 25%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.aboutme{
+    display: flex;
+    border: 2px;
+    padding: 10px;
+
+
+    width: 50%;
+    /* height:10vh; */
+    margin-left: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 130vh;
+}
+.i{
+    padding: 5px;
+    font-family: sans-serif;
+    border: 2px;
+    font-size: 0.6em;
+
+} .img1{
+    background-image: url(fb.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+}  .img2{
+    background-image: url(./Calculate\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+} .img3{
+    background-image: url(./form.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+} .img4{
+    background-image: url(./Discount\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+} .img5{
+    background-image: url(./gtp.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+}  .img6{
+    background-image: url(./Ocity.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+} .img7{
+    background-image: url(./animation.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+} .img8{
+    background-image: url(./Timer\ 2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 50%;
+}
+
+
+
+
+
+
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+} a:hover{
+    color: rgb(93, 34, 148);
+    padding-right: 5px;
+    font-size: 1.2em;
+} 
+
+
+
+
+
+.contact{
+    display: flex;
+    gap: 80px;
+
+
+
+    width: 50%;
+    height: 5vh;
+    margin-left: 25%;
+    padding-left: 20px;
+    font-size: 0.6em;
+    font-family: sans-serif;
+
+
+    /* border: 2px solid grey; */
+} .info{
+    margin-bottom: 5px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+} .info_cont:hover{
+    padding-left: 10px;
+}
+.info_cont{
+    /* border: 1px solid grey; */
+    box-shadow: 0.5px 0.5px 2px blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 1.3em;
+    color: blueviolet;
+}
+
+
+
+.back{
+    background-image: url(./arrow-up.svg);
+
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10%;
+    height: 30px;
+    margin-left: 80%;
+    position: sticky;
+    bottom: 2vh;
+}
+
+
+
+
+footer{
+    display: flex;
+    gap: 30px;
+    font-size: 0.8em;
+    background-color: rgb(234, 219, 248);
+}
+.fb{
+    background-image: url(./facebook.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+
+    margin-top: 3px;
+} .tw{
+    background-image: url(./twitter.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.ln{
+    background-image: url(./linkedin.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.ig{
+    background-image: url(./instagram.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.gh{
+    background-image: url(./github.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+
+    margin-top: 3px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+    
+header{
+    border: 2px;
+    padding: 10px;
+    display: flex;
+    position: sticky;
+    top: 0px;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px; */
+
+
+    /* margin-left: 10%; */
+    width: 100%;
+    height: 7vh;
+    
+} main{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin-left: 15%;
+    
+    margin-top: 2em;
+    width: 70%;
+    height: 340vh;
+    
+
+}footer{
+    /* border: 2px solid grey; */
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-family: sans-serif;
+
+    width: 100%;
+    height: 4vh;
+}
+
+
+
+
+
+.h1{
+    font-size: 2em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 50px;
+
+
+} .h2{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 20px;
+
+    margin-left: 70px;
+    margin-top: 15px;
+}.h3{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 0px;
+
+    margin-top: 15px;
+    margin-left: 30px;
+}.h4{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    border: 2px;
+    width: 20%;
+    height: 20px;
+
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+
+.hero{
+    background-image: url(./hero.jpg);
+    margin-top: 0em;
+    width: 100%;
+    height: 41vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+} article{
+    color: rgb(166, 101, 226);
+    /* border: 2px solid grey; */
+    font-size: 0.8em;
+    font-family: serif;
+    font-weight: lighter;
+
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+
+    margin-top: 0.5em;
+    margin-left: 3em;
+
+} button{
+    margin-top: 10px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+} button a{
+    color: rgb(0, 0, 0);
+} h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 2.3em;
+    margin-top: 0em;
+    padding-top: 1.5em;
+    margin-left: 1.2em;
+} h2{
+    /* border: 2px solid grey; */
+
+    width: 50%;
+    height: auto;
+    padding: 10px;
+
+    margin-top: 25%;
+    margin-left: 25%;
+} h3{
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.aboutme{
+    display: flex;
+    /* border: 2px; */
+    padding: 10px;
+
+
+    width: 70%;
+    /* height:10vh; */
+    margin-left: 15%;
+}
+
+
+
+
+
+
+
+.i{
+    padding: 5px;
+    font-family: sans-serif;
+    border: 2px;
+    font-size: 0.6em;
+
+} .i1{
+    border-left: 3px solid blueviolet;
+    /* border-bottom: 2px solid blueviolet; */
+    padding: 10px;
+} .img1{
+    background-image: url(fb.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 20em;
+}  .img2{
+    background-image: url(./Calculate\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 20em;
+} .img3{
+    background-image: url(./form.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 20em;
+} .img4{
+    background-image: url(./Discount\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 20em;
+} .img5{
+    background-image: url(./gtp.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 20em;
+}  .img6{
+    background-image: url(./Ocity.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 15em;
+} .img7{
+    background-image: url(./animation.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 25em;
+} .img8{
+    background-image: url(./Timer\ 2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 30em;
+    height: 23em;
+}
+
+
+
+
+
+
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+} a:hover{
+    color: rgb(93, 34, 148);
+    padding-right: 5px;
+    font-size: 1.2em;
+} 
+
+
+
+
+
+.contact{
+    display: flex;
+    gap: 50px;
+
+
+
+    width: 70%;
+    height: 5vh;
+    margin-left: 15%;
+    margin-top: 20px;
+    padding-left: 10px;
+    font-size: 0.6em;
+    font-family: sans-serif;
+
+
+    /* border: 2px solid grey; */
+} .info_cont{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 1.4em;
+    color: blueviolet;
+    padding: 5px;
+    display: block;
+}
+
+
+
+.back{
+    background-image: url(./arrow-up.svg);
+
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10%;
+    height: 30px;
+    margin-left: 90%;
+    position: sticky;
+    bottom: 2vh;
+}
+
+
+
+
+footer{
+    display: flex;
+    gap: 30px;
+    font-size: 0.8em;
+    background-color: rgb(180, 135, 222);
+
+}
+.fb{
+    background-image: url(./facebook.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+
+    margin-top: 3px;
+} .tw{
+    background-image: url(./twitter.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.ln{
+    background-image: url(./linkedin.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.ig{
+    background-image: url(./instagram.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+    margin-top: 3px;
+}.gh{
+    background-image: url(./github.svg);
+
+
+
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 10px;
+    height: 10px;
+
+
+    margin-top: 3px;
+}
+
+#about{
+    border-left: 5px blueviolet solid;
+
+    padding: 5px;
+
+    margin-left: 5%;
+    margin-top: 5px;
+    width: 80%;
+
+} #projects{
+    border-left: 5px blueviolet solid;
+
+    padding: 5px;
+
+    margin-left: 5%;
+    margin-top: 5px;
+    width: 80%;
+
+}#contact{
+    border-left: 5px blueviolet solid;
+
+    padding: 5px;
+
+    margin-left: 5%;
+    margin-top: 5px;
+    width: 80%;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and ( max-width:375px) {
+    main{
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        margin-left: 10%;
+        
+        margin-top: 2em;
+        width: 80%;
+        height: 350vh;
+        
+    
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:320px) {
+    
+
+
+
+
+
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+        
+    header{
+        border: 2px;
+        padding: 10px;
+        display: flex;
+        position: sticky;
+        top: 0px;
+        background-color: rgb(255, 255, 255);
+        /* border: 1px; */
+    
+    
+        width: 80%;
+        height: 7vh;
+        
+    } main{
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        margin-left: 15%;
+        
+        margin-top: 2em;
+        width: 70%;
+        height: 380vh;
+        
+    
+    }footer{
+        /* border: 2px solid grey; */
+        padding-top: 10px;
+        padding-left: 20px;
+        margin-top: 20px;
+        font-family: sans-serif;
+    
+        width: 100%;
+        height: 4vh;
+    }
+    
+    
+    
+    
+    
+    .h1{
+        font-size: 2em;
+        font-family: sans-serif;
+        border: 2px;
+        width: 20%;
+        height: 50px;
+    
+    
+    } .h2{
+        font-size: 0.8em;
+        font-family: sans-serif;
+        border: 2px;
+        width: 20%;
+        height: 20px;
+    
+        margin-left: 70px;
+        margin-top: 15px;
+    }.h3{
+        font-size: 0.8em;
+        font-family: sans-serif;
+        border: 2px;
+        width: 20%;
+        height: 0px;
+    
+        margin-top: 15px;
+        margin-left: 30px;
+    }.h4{
+        font-size: 0.8em;
+        font-family: sans-serif;
+        border: 2px;
+        width: 20%;
+        height: 20px;
+    
+        margin-top: 15px;
+        margin-left: 20px;
+    } 
+    
+    
+    
+    .hero{
+        background-image: url(./hero.jpg);
+        margin-top: 0em;
+        width: 100%;
+        height: 41vh;
+        background-repeat: no-repeat;
+        background-size: contain;
+    } article{
+        color: rgb(166, 101, 226);
+        /* border: 2px solid grey; */
+        font-size: 0.6em;
+        font-family: sans-serif;
+        font-weight: light;
+    
+        width: 50%;
+        height: 50%;
+        padding: 10px;
+    
+        margin-top: 0.5em;
+        margin-left: 1.5em;
+    
+    } button{
+        margin-top: 10px;
+        border: none;
+        padding: 5px;
+        border-radius: 5px;
+        background-color: rgb(255, 255, 255);
+    } button a{
+        color: rgb(0, 0, 0);
+    } h1{
+        color: white;
+        font-family: sans-serif;
+        font-size: 1.8em;
+        margin-top: 0em;
+        padding-top: 1.5em;
+        margin-left: 0.7em;
+    } h2{
+        /* border: 2px solid grey; */
+    
+        width: 50%;
+        height: auto;
+        padding: 10px;
+    
+        margin-top: 25%;
+        margin-left: 25%;
+    } h3{
+        margin-bottom: 20px;
+        font-size: 1.5em;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .aboutme{
+        display: flex;
+        /* border: 2px; */
+        padding: 10px;
+    
+    
+        width: 70%;
+        /* height:10vh; */
+        margin-left: 15%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .i{
+        padding: 5px;
+        font-family: sans-serif;
+        border: 2px;
+        font-size: 0.6em;
+    
+    } .i1{
+        border-left: 3px solid blueviolet;
+        /* border-bottom: 2px solid blueviolet; */
+        padding: 10px;
+    } .img1{
+        background-image: url(fb.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 20em;
+    }  .img2{
+        background-image: url(./Calculate\ 1.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 20em;
+    } .img3{
+        background-image: url(./form.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 20em;
+    } .img4{
+        background-image: url(./Discount\ 2.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 20em;
+    } .img5{
+        background-image: url(./gtp.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 20em;
+    }  .img6{
+        background-image: url(./Ocity.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 15em;
+    } .img7{
+        background-image: url(./animation.gif);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 25em;
+    } .img8{
+        background-image: url(./Timer\ 2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 30em;
+        height: 23em;
+    }
+    
+    
+    
+    
+    
+    
+    
+    a{
+        color: blueviolet;
+        text-decoration: none;
+    } a:hover{
+        color: rgb(93, 34, 148);
+        padding-right: 5px;
+        font-size: 1.2em;
+    } 
+    
+    
+    
+    
+    
+    .contact{
+        display: flex;
+        gap: 50px;
+    
+    
+    
+        width: 70%;
+        height: 5vh;
+        margin-left: 15%;
+        margin-top: 20px;
+        padding-left: 10px;
+        font-size: 0.6em;
+        font-family: sans-serif;
+    
+    
+        /* border: 2px solid grey; */
+    } .info_cont{
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: 1.4em;
+        color: blueviolet;
+        padding: 5px;
+        display: block;
+    }
+    
+    
+    
+    .back{
+        background-image: url(./arrow-up.svg);
+    
+    
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10%;
+        height: 30px;
+        margin-left: 80%;
+        position: sticky;
+        bottom: 2vh;
+    }
+    
+    
+    
+    
+    footer{
+        display: flex;
+        gap: 30px;
+        font-size: 0.8em;
+        background-color: rgb(180, 135, 222);
+    
+    }
+    .fb{
+        background-image: url(./facebook.svg);
+    
+    
+    
+        margin-left: 5px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10px;
+        height: 10px;
+    
+    
+        margin-top: 3px;
+    } .tw{
+        background-image: url(./twitter.svg);
+    
+    
+    
+        margin-left: 5px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10px;
+        height: 10px;
+    
+        margin-top: 3px;
+    }.ln{
+        background-image: url(./linkedin.svg);
+    
+    
+    
+        margin-left: 5px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10px;
+        height: 10px;
+    
+        margin-top: 3px;
+    }.ig{
+        background-image: url(./instagram.svg);
+    
+    
+    
+        margin-left: 5px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10px;
+        height: 10px;
+    
+        margin-top: 3px;
+    }.gh{
+        background-image: url(./github.svg);
+    
+    
+    
+        margin-left: 3px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 10px;
+        height: 10px;
+    
+    
+        margin-top: 3px;
+    }
+    
+    #about{
+        border-left: 5px blueviolet solid;
+    
+        padding: 5px;
+    
+        margin-left: 5%;
+        margin-top: 5px;
+        width: 80%;
+    
+    } #projects{
+        border-left: 5px blueviolet solid;
+    
+        padding: 5px;
+    
+        margin-left: 5%;
+        margin-top: 5px;
+        width: 80%;
+    
+    }#contact{
+        border-left: 5px blueviolet solid;
+    
+        padding: 5px;
+    
+        margin-left: 5%;
+        margin-top: 5px;
+        width: 80%;
+    
+    }
+    
+    
+
+
+
+
+
+
+
+}
+
